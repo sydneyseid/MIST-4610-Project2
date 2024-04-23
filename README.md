@@ -44,7 +44,7 @@ In what month are shark attacks most prevalent in the past 10 years, and what ty
 
 Importance: 
 
-  Our client, the California Department of Fish and Wildlife, would find it useful to know peak months and injury type (non-fatal, no injury, fatal) to better understand how to keep California beachgoers safe. The dataset is filtered by the most recent decade, as this would be the most indicative timeframe for understanding monthly shark encounters. ( opposed to when the dataset began in the 1950s).
+  Our client, the California Department of Fish and Wildlife, would find it useful to know peak months and injury type (non-fatal, no injury, fatal) to better understand how to keep California beachgoers safe. The dataset is filtered by the most recent decade, as this would be the most indicative timeframe for understanding monthly shark encounters (opposed to when the dataset began in the 1950s).
   For instance, the summer months have a higher concentration of shark encounters, which is likely caused by warmer weather and more people in the water. Therefore, our client might find it useful to increase lifeguards during these months. This data is also visually intuitive. Our client can readily intuit that fatalities make up a small percentage of all encounters, and are not correlated to months where encounters are more frequent. 
 
 ## Question 2
@@ -61,7 +61,7 @@ b. What activities are most common and how are they related to the shark species
 
 Importance:
 
-   This question is interesting because it allows us to understand what countries and activities have had the most incidents with sharks. Being able to see each of these factors, along with the type of shark that was involved, we can take it in more wholly and see some trends in our data. We can also start to see some relationships between them. For example, we can see that Surfing is the most prevalent activity and Great Whites are the species most often encountered during it. Taking a step back, we can see that Great Whites tend to be the most prevalent species for not only that but for every activity. 
+   This question is interesting because it allows us to understand which counties and activities have had the most incidents with sharks. Being able to see each of these factors, along with the type of shark that was involved, we can take it in more wholly and see some trends in our data. We can also start to see some relationships between them. For example, we can see that Surfing is the most prevalent activity and Great Whites are the species most often encountered during it. Taking a step back, we can see that Great Whites tend to be the most prevalent species for not only that, but for every activity. 
    Our client, the California Department of Fish and Wildlife would find this question and our visualizations useful for determining what activities, based on # of incidents, put people most at risk for encounters with sharks. By analyzing the patterns of incidents, the department may be able to identify and put up measures to minimize shark-related catastrophes, for different counties and activities. Furthermore, with more meticulous data of other factors not currently in our possession, such as temperature, the department may be able to observe more causal relationships rather than mere correlation between shark and human encounters.
 
 ## Manipulations Applied to the Dataset as Part of Analysis
