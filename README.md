@@ -1,6 +1,6 @@
 # MIST-4610-Project2
 ## Team Name:
-61608 Group 5
+Sp24_61608_Group 5
 ## Team Members:
 1. Sydney Seid [@sydneyseid](https://www.github.com/sydneyseid)
 2. Manafie Kabir [@manafiekabir](https://www.github.com/manafiekabir)
